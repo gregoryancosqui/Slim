@@ -1,4 +1,6 @@
 <?php
+phpinfo();
+die;
 /**
  * Step 1: Require the Slim PHP 5 Framework
  *
